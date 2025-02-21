@@ -1,0 +1,4 @@
+com\mycompany\metodospagamentos\Pagamento.class
+com\mycompany\metodospagamentos\CartaoCredito.class
+com\mycompany\metodospagamentos\PayPal.class
+com\mycompany\metodospagamentos\MetodosPagamentos.class
